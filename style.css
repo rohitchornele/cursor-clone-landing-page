@@ -884,7 +884,7 @@ footer {
   font-size: 14px;
 }
 
-.quick-links a {
+.quick-links a, p {
   font-weight: 100;
   font-size: 14px;
 }
