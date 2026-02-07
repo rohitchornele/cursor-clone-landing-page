@@ -9,10 +9,10 @@ This project focuses strictly on visual and structural accuracy, replicating the
 ## 🔗 Live Preview
 
 **Live Website:**  
-https://your-live-preview-link.com  
+https://cursor-frontend.netlify.app/
 
 **GitHub Repository:**  
-https://github.com/your-username/cursor-frontend-clone  
+https://github.com/rohitchornele/cursor-clone-landing-page  
 
 ---
 
